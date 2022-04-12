@@ -3,6 +3,7 @@ package course;
 import java.util.Locale;
 import java.util.Scanner;
 
+//Progrma sobre orientação a objeto
 public class SegundoProgram{
 
     public static void main(String[] args) {

@@ -2,6 +2,7 @@ package course;
 
 import java.util.Scanner;
 
+//Programa para entender a sintaxe das funções
 public class Program {
     
     public static void main(String[] args) {
