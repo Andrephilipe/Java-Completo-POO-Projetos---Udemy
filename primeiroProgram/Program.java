@@ -1,4 +1,4 @@
-package course;
+package course.primeiroProgram;
 
 import java.util.Scanner;
 
