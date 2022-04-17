@@ -1,5 +1,4 @@
-//
-package course.src.entities;
+package entities;
 
 public class Product {
 
